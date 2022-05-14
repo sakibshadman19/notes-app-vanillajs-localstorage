@@ -4,7 +4,7 @@
 
 <br/>
 
-I used Html,Css, Vanilla js, Local Storage to build the project.
+I used Html, Css, Sass, Vanilla js, Local Storage to build the project.
 <br/>
 
 ### Author Links  
